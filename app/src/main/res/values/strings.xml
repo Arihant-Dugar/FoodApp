@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="eat_and_repeat">Eat and Repeat</string>
+    <string name="food_logo">food_logo</string>
+    <string name="sign_up">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="skip">Skip</string>
+    <string name="welcome">welcome</string>
+    <string name="splash_screen">Splashscreen</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="your_name">Your Name</string>
+    <string name="or_with">Or-With</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="already_have_a_account_login">Already Have a Account? Login</string>
+    <string name="sign_in">SIGN-IN</string>
+    <string name="want_to_create_account">Want to create Account?</string>
+    <string name="login">login</string>
+    <string name="abc_gmail_com">abc@gmail.com</string>
+    <string name="price">Price : </string>
+    <string name="order_no_2254923">Order No. =</string>
+    <string name="this_is_very_delightful_pizza_and_u_will_love_the_taste_of_it">This is very delightful Pizza and u will love the taste of it.</string>
+    <string name="order_image">order_image</string>
+    <string name="pizza_image">pizza_image</string>
+    <string name="food_name">Food Name</string>
+    <string name="order_now">Order Now</string>
+    <string name="price_order">Price</string>
+    <string name="cart">CART</string>
+    <string name="update_now">update now</string>
+</resources>
